@@ -1,0 +1,9 @@
+.topRow button,
+.middleRow button,
+.bottomRow button {
+    color: yellow;
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    font-size: 150%;
+}
